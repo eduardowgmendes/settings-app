@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/grouped_by_similarity"
+        android:title="@string/grouped_by_similarity_menu" />
+    <item
+        android:id="@+id/random_ordering"
+        android:title="@string/random_order_menu" />
+</menu>

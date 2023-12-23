@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Settings Application</string>
+    <string name="settings_title">Settings</string>
+    <string name="search_bar_hint">Search</string>
+    <string name="night_mode_menu">Nightmode</string>
+    <string name="empty_state_title_placeholder">Oops! There\'s nothing to show</string>
+    <string name="empty_state_description_placeholder">A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="settings_menu">Settings</string>
+    <string name="visualisation_setting_section_title">Visualisation</string>
+    <string name="organisation_setting_section_title">Organisation</string>
+    <string name="select_hint">Select...</string>
+    <string name="random_order_menu">Random Order</string>
+    <string name="grouped_by_similarity_menu">Grouped by Similarity</string>
+    <string name="night_mode_setting_section_title">Nightmode</string>
+</resources>
